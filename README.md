@@ -18,10 +18,15 @@ Features:
 3. Learn (Access educational content for different subjects)
 4. Take tests/quizzes
 5. Use educational tools such as:
+
 a) Wikipedia search 
+
 b) Wolfram alpha-  for solving equations with or without the steps taken, plotting 2D and 3D graphs
+
 Wolfram alpha also has a smart bot that you can ask general QnAs...
+
 c) Translating between different languages
 
 DevSoc = UCT Developer Society
+
 DSC = Google Developer Student Club Society
